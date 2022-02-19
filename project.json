@@ -1,0 +1,7 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ChinaChess",
+  "id": "9b739d3c-db40-426a-b8cb-73ca11c62edb",
+  "version": "2.0.1"
+}
